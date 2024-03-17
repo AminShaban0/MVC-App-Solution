@@ -1,0 +1,15 @@
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\bin\Debug\net5.0\MVC_BLL.deps.json
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\bin\Debug\net5.0\MVC_BLL.dll
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\bin\Debug\net5.0\MVC_BLL.pdb
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\bin\Debug\net5.0\MVC_DAL.dll
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\bin\Debug\net5.0\MVC_DAL.pdb
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.csproj.AssemblyReference.cache
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.AssemblyInfoInputs.cache
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.AssemblyInfo.cs
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.csproj.CopyComplete
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.dll
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\refint\MVC_BLL.dll
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\MVC_BLL.pdb
+C:\Users\Captain\source\repos\MVC.Soulation\MVC_BLL\obj\Debug\net5.0\ref\MVC_BLL.dll

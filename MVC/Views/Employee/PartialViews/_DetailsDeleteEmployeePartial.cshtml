@@ -1,0 +1,51 @@
+﻿@model EmployeeViewModel
+<div>
+
+    @* <div class="form-group">
+    <img src="~/Files/Images/@Model.ImageName" class="img-fluid rounded-circle " width="50" height="50" />
+    <input asp-for="ImageName" hidden />
+    </div> *@
+    <div class="form-group">
+        <img src="~/Files/Images/@Model.ImageName" class="img-fluid rounded-circle " width="50" height="50" />
+        <input asp-for="ImageName" hidden/>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" readonly />
+
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Age"></label>
+        <input class="form-control" asp-for="Age" readonly />
+
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Adress"></label>
+        <input class="form-control" asp-for="Adress" readonly />
+
+
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Salary"></label>
+        <input class="form-control" asp-for="Salary" readonly />
+
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="IsActive"></label>
+        <input class="form-control" asp-for="IsActive" readonly />
+
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" readonly />
+
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Phone"></label>
+        <input class="form-control" asp-for="Phone" readonly />
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="HireDate"></label>
+        <input class="form-control" asp-for="HireDate" readonly />
+    </div>
+    </div>
